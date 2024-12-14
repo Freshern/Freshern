@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Freshern
-- 👀 I’m interested in java and JavaScript
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-  
+it's💰 Freshern 
+"blog writer, website developer,"
+skilled 💪in programming in both java and JavaScript
+for👉 more information 👍like and follow my page👇👇
+
 
 <!---
 Freshern/Freshern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
