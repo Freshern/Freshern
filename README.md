@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Freshern
-- 👀 I’m interested in java and JavaScript
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+It's Freshern🌍
+A blog writer and website developer
+and a programmer both in Java and JavaScript
+For 👉 more 🌟like and follow my page 👇👇
   
 
 <!---
